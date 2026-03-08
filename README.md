@@ -14,3 +14,12 @@
 Data Scientist with a background in Food Chemistry, specializing in analytics, machine learning, and AI-driven solutions for the food industry.
 
 🔬 **Data Food Solutions** — bridging food science, data, and AI to build smarter product development and innovation systems.
+
+---
+
+## What I'm working on
+
+- LLM applications for hazard analysis in food ingredients and raw materials
+- Machine learning models for beverage formulation, sensory prediction, and physicochemical stability
+- Data-driven tools for food innovation, product development, and decision-making
+- Cloud-based analytics workflows using Google Cloud Platform and Apps Script
